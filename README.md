@@ -1,3 +1,11 @@
-# giondo.github.io
+# @Sysadmin @Devops @Cloud @Networking @Linux @Windows?
 
-# WebSite test
+Too many things to learn everyday so this is my new notepad
+
+## Openstack
+## VmWare
+## Proxmox
+## PfSense
+## Linux
+## Kubernetes / Openshift
+
